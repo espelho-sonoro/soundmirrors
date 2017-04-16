@@ -16,5 +16,5 @@ _autosave-*
 .dsn
 
 # Exported BOM files
-*.xml
+.xml
 *.csv
