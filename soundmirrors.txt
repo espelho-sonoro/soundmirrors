@@ -1,3 +1,12 @@
-http://www.microstack.org.uk/assets/gps/FormattedGPSgettingstarted.pdf
-https://www.pololu.com/file/0J1082/a4988-stepper-motor-driver-carrier-dimension-diagram.pdf
+github do gps
+https://github.com/microstack-IoT
+
 http://docs.kicad-pcb.org/stable/en/getting_started_in_kicad.html#make-schematic-components-in-kicad
+
+
+steps:
+
+escolher uma fonte de corrente
+projetar a fonte para os leds
+certificar qeu tudo vai conector
+
